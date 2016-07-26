@@ -1,0 +1,19 @@
+.info-price.lg .price-container .price {
+    background: url(../images/price_bg_lg.png) no-repeat;
+    height: 55px;
+    line-height: 40px;
+    padding: 0 10px 0 23px;
+    font-size: 2.2em;
+    display: inline-block;
+    width: auto;
+    font-family: "RobotoCondensed-Bold";
+    color: #242323;
+}
+.info-price.lg .price-container .price span {
+    float:left;
+}
+.info-price.lg .price-container .price .sub {
+    font-size: 0.6em;
+    line-height: 50px;
+    vertical-align: bottom;
+}
